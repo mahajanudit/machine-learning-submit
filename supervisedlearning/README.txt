@@ -1,5 +1,5 @@
-Repository Link: https://github.com/mahajanudit/gatech-machine-learning_public
-How to obtain the code: git clone https://github.com/mahajanudit/gatech-machine-learning_public.git
+Repository Link: https://github.com/mahajanudit/machine-learning-submit.git
+How to obtain the code: git clone https://github.com/mahajanudit/machine-learning-submit.git
 Data Set
 1. Pollution:
    Link: https://www.kaggle.com/rupakroy/lstm-datasets-multivariate-univariate
