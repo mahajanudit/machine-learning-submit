@@ -21,4 +21,4 @@ Run Step
 4. Boosting: python boosting.py
 5. KNN: python knn.py
 6. SVM: python svm.py
-  6.1 To do grid search: uncomment grid_search. Rerun python svm.py
+  6.1 To do grid search: uncomment line 187 and 195 and comment all other line in the __main__ function. Rerun python svm.py
